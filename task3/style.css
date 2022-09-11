@@ -1,0 +1,12 @@
+@media (min-width: 320px) {
+  .dropdown-menu {
+    background-color: #f8f9fa;
+    border: none;
+  }
+}
+@media (min-width: 992px) {
+  .dropdown-menu {
+    border: 1px solid gray;
+    background-color: white;
+  }
+}
